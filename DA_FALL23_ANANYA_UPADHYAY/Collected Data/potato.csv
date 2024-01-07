@@ -1,0 +1,517 @@
+﻿Country_Name,Year,Yield_Potato
+Bangladesh,1961,61491
+Bangladesh,1962,60217
+Bangladesh,1963,62676
+Bangladesh,1964,58458
+Bangladesh,1965,72386
+Bangladesh,1966,81351
+Bangladesh,1967,85298
+Bangladesh,1968,93601
+Bangladesh,1969,94964
+Bangladesh,1970,101253
+Bangladesh,1971,99607
+Bangladesh,1972,98746
+Bangladesh,1973,95370
+Bangladesh,1974,91192
+Bangladesh,1975,93792
+Bangladesh,1976,94132
+Bangladesh,1977,95033
+Bangladesh,1978,101503
+Bangladesh,1979,94058
+Bangladesh,1980,95056
+Bangladesh,1981,97810
+Bangladesh,1982,101718
+Bangladesh,1983,102748
+Bangladesh,1984,104151
+Bangladesh,1985,104186
+Bangladesh,1986,101724
+Bangladesh,1987,100535
+Bangladesh,1988,103381
+Bangladesh,1989,97860
+Bangladesh,1990,91410
+Bangladesh,1991,99868
+Bangladesh,1992,107931
+Bangladesh,1993,106787
+Bangladesh,1994,109570
+Bangladesh,1995,111665
+Bangladesh,1996,112741
+Bangladesh,1997,112551
+Bangladesh,1998,113972
+Bangladesh,1999,112810
+Bangladesh,2000,120591
+Bangladesh,2001,129163
+Bangladesh,2002,126010
+Bangladesh,2003,138021
+Bangladesh,2004,144313
+Bangladesh,2005,148805
+Bangladesh,2006,143848
+Bangladesh,2007,149768
+Bangladesh,2008,165373
+Bangladesh,2009,133367
+Bangladesh,2010,182299
+Bangladesh,2011,180931
+Bangladesh,2012,190627
+Bangladesh,2013,193790
+Bangladesh,2014,193845
+Bangladesh,2015,196476
+Bangladesh,2016,199250
+Bangladesh,2017,204432
+Bangladesh,2018,204106
+Bangladesh,2019,206131
+Bangladesh,2020,208215
+Bangladesh,2021,210951
+Bhutan,1961,63063
+Bhutan,1962,63025
+Bhutan,1963,63008
+Bhutan,1964,62992
+Bhutan,1965,64202
+Bhutan,1966,64151
+Bhutan,1967,64815
+Bhutan,1968,64982
+Bhutan,1969,63793
+Bhutan,1970,64407
+Bhutan,1971,65000
+Bhutan,1972,64516
+Bhutan,1973,65079
+Bhutan,1974,65015
+Bhutan,1975,65152
+Bhutan,1976,65672
+Bhutan,1977,66176
+Bhutan,1978,66667
+Bhutan,1979,67143
+Bhutan,1980,66667
+Bhutan,1981,67297
+Bhutan,1982,67676
+Bhutan,1983,66667
+Bhutan,1984,78858
+Bhutan,1985,67500
+Bhutan,1986,70000
+Bhutan,1987,98039
+Bhutan,1988,121951
+Bhutan,1989,120000
+Bhutan,1990,119832
+Bhutan,1991,83824
+Bhutan,1992,84711
+Bhutan,1993,85598
+Bhutan,1994,86485
+Bhutan,1995,87372
+Bhutan,1996,88259
+Bhutan,1997,89146
+Bhutan,1998,89094
+Bhutan,1999,79250
+Bhutan,2000,70968
+Bhutan,2001,77143
+Bhutan,2002,75267
+Bhutan,2003,98279
+Bhutan,2004,138521
+Bhutan,2005,91444
+Bhutan,2006,95728
+Bhutan,2007,101211
+Bhutan,2008,95006
+Bhutan,2009,98644
+Bhutan,2010,117374
+Bhutan,2011,82519
+Bhutan,2012,84679
+Bhutan,2013,106007
+Bhutan,2014,88962
+Bhutan,2015,99302
+Bhutan,2016,99252
+Bhutan,2017,110216
+Bhutan,2018,98257
+Bhutan,2019,104033
+Bhutan,2020,108670
+Bhutan,2021,115556
+India,1961,72507
+India,1962,67041
+India,1963,81477
+India,1964,62482
+India,1965,84033
+India,1966,85094
+India,1967,74403
+India,1968,84410
+India,1969,90113
+India,1970,78883
+India,1971,99755
+India,1972,98099
+India,1973,88208
+India,1974,89457
+India,1975,105982
+India,1976,117384
+India,1977,115731
+India,1978,122282
+India,1979,125548
+India,1980,121521
+India,1981,132104
+India,1982,129957
+India,1983,135456
+India,1984,152988
+India,1985,148064
+India,1986,123639
+India,1987,153221
+India,1988,158694
+India,1989,159290
+India,1990,157136
+India,1991,162540
+India,1992,160294
+India,1993,149024
+India,1994,166101
+India,1995,162720
+India,1996,169913
+India,1997,193913
+India,1998,146020
+India,1999,175712
+India,2000,186443
+India,2001,183627
+India,2002,194173
+India,2003,173208
+India,2004,188091
+India,2005,188908
+India,2006,185920
+India,2007,164101
+India,2008,192973
+India,2009,188103
+India,2010,199299
+India,2011,227240
+India,2012,217530
+India,2013,227606
+India,2014,229224
+India,2015,231257
+India,2016,205087
+India,2017,223061
+India,2018,239542
+India,2019,230971
+India,2020,236772
+India,2021,241237
+Kazakhstan,1992,105923
+Kazakhstan,1993,96200
+Kazakhstan,1994,95739
+Kazakhstan,1995,84589
+Kazakhstan,1996,88347
+Kazakhstan,1997,84078
+Kazakhstan,1998,76679
+Kazakhstan,1999,107532
+Kazakhstan,2000,106383
+Kazakhstan,2001,132897
+Kazakhstan,2002,139278
+Kazakhstan,2003,139057
+Kazakhstan,2004,134485
+Kazakhstan,2005,150135
+Kazakhstan,2006,153851
+Kazakhstan,2007,155792
+Kazakhstan,2008,144356
+Kazakhstan,2009,162092
+Kazakhstan,2010,143194
+Kazakhstan,2011,167176
+Kazakhstan,2012,165927
+Kazakhstan,2013,181522
+Kazakhstan,2014,184251
+Kazakhstan,2015,185500
+Kazakhstan,2016,190381
+Kazakhstan,2017,194161
+Kazakhstan,2018,197945
+Kazakhstan,2019,203408
+Kazakhstan,2020,206742
+Kazakhstan,2021,207386
+Kyrgyzstan,1992,133088
+Kyrgyzstan,1993,115902
+Kyrgyzstan,1994,90906
+Kyrgyzstan,1995,98531
+Kyrgyzstan,1996,114302
+Kyrgyzstan,1997,120636
+Kyrgyzstan,1998,130657
+Kyrgyzstan,1999,149513
+Kyrgyzstan,2000,151543
+Kyrgyzstan,2001,158221
+Kyrgyzstan,2002,237869
+Kyrgyzstan,2003,157200
+Kyrgyzstan,2004,159938
+Kyrgyzstan,2005,150370
+Kyrgyzstan,2006,154716
+Kyrgyzstan,2007,158947
+Kyrgyzstan,2008,157047
+Kyrgyzstan,2009,159993
+Kyrgyzstan,2010,159644
+Kyrgyzstan,2011,162543
+Kyrgyzstan,2012,161034
+Kyrgyzstan,2013,165456
+Kyrgyzstan,2014,167406
+Kyrgyzstan,2015,167642
+Kyrgyzstan,2016,168994
+Kyrgyzstan,2017,170537
+Kyrgyzstan,2018,171342
+Kyrgyzstan,2019,173444
+Kyrgyzstan,2020,173906
+Kyrgyzstan,2021,172101
+Nepal,1961,56098
+Nepal,1962,56098
+Nepal,1963,57143
+Nepal,1964,57813
+Nepal,1965,66512
+Nepal,1966,65952
+Nepal,1967,69767
+Nepal,1968,57447
+Nepal,1969,57667
+Nepal,1970,57719
+Nepal,1971,55896
+Nepal,1972,57597
+Nepal,1973,57393
+Nepal,1974,57253
+Nepal,1975,57210
+Nepal,1976,58842
+Nepal,1977,51643
+Nepal,1978,53676
+Nepal,1979,54988
+Nepal,1980,54237
+Nepal,1981,56583
+Nepal,1982,61738
+Nepal,1983,63002
+Nepal,1984,65061
+Nepal,1985,64107
+Nepal,1986,50989
+Nepal,1987,53171
+Nepal,1988,70710
+Nepal,1989,78572
+Nepal,1990,80601
+Nepal,1991,87569
+Nepal,1992,85916
+Nepal,1993,84268
+Nepal,1994,87539
+Nepal,1995,85926
+Nepal,1996,84750
+Nepal,1997,89820
+Nepal,1998,84664
+Nepal,1999,92599
+Nepal,2000,96436
+Nepal,2001,101824
+Nepal,2002,109018
+Nepal,2003,109246
+Nepal,2004,114898
+Nepal,2005,118458
+Nepal,2006,130896
+Nepal,2007,126568
+Nepal,2008,131100
+Nepal,2009,133263
+Nepal,2010,135841
+Nepal,2011,137352
+Nepal,2012,135837
+Nepal,2013,136408
+Nepal,2014,136955
+Nepal,2015,131259
+Nepal,2016,140299
+Nepal,2017,138631
+Nepal,2018,158142
+Nepal,2019,160464
+Nepal,2020,166500
+Nepal,2021,167275
+Pakistan,1961,74533
+Pakistan,1962,92754
+Pakistan,1963,90692
+Pakistan,1964,90733
+Pakistan,1965,92849
+Pakistan,1966,90235
+Pakistan,1967,88211
+Pakistan,1968,93564
+Pakistan,1969,109606
+Pakistan,1970,105176
+Pakistan,1971,113168
+Pakistan,1972,110448
+Pakistan,1973,103562
+Pakistan,1974,101714
+Pakistan,1975,104552
+Pakistan,1976,112213
+Pakistan,1977,123453
+Pakistan,1978,98543
+Pakistan,1979,104085
+Pakistan,1980,104545
+Pakistan,1981,103763
+Pakistan,1982,105291
+Pakistan,1983,100528
+Pakistan,1984,102815
+Pakistan,1985,99668
+Pakistan,1986,98245
+Pakistan,1987,98149
+Pakistan,1988,96911
+Pakistan,1989,100908
+Pakistan,1990,104002
+Pakistan,1991,104452
+Pakistan,1992,113709
+Pakistan,1993,122809
+Pakistan,1994,133171
+Pakistan,1995,139418
+Pakistan,1996,134795
+Pakistan,1997,112295
+Pakistan,1998,136186
+Pakistan,1999,165413
+Pakistan,2000,169078
+Pakistan,2001,164180
+Pakistan,2002,164486
+Pakistan,2003,168028
+Pakistan,2004,176673
+Pakistan,2005,180795
+Pakistan,2006,133447
+Pakistan,2007,193516
+Pakistan,2008,164550
+Pakistan,2009,202848
+Pakistan,2010,226823
+Pakistan,2011,219196
+Pakistan,2012,183405
+Pakistan,2013,218059
+Pakistan,2014,181506
+Pakistan,2015,234439
+Pakistan,2016,224346
+Pakistan,2017,214503
+Pakistan,2018,236699
+Pakistan,2019,248874
+Pakistan,2020,245612
+Pakistan,2021,250638
+Sri Lanka,1961,48734
+Sri Lanka,1962,22422
+Sri Lanka,1963,91922
+Sri Lanka,1964,59609
+Sri Lanka,1965,31456
+Sri Lanka,1966,86804
+Sri Lanka,1967,78080
+Sri Lanka,1968,97753
+Sri Lanka,1969,90724
+Sri Lanka,1970,96010
+Sri Lanka,1971,99446
+Sri Lanka,1972,88384
+Sri Lanka,1973,78711
+Sri Lanka,1974,84182
+Sri Lanka,1975,70224
+Sri Lanka,1976,89547
+Sri Lanka,1977,93576
+Sri Lanka,1978,101741
+Sri Lanka,1979,92439
+Sri Lanka,1980,112676
+Sri Lanka,1981,124060
+Sri Lanka,1982,124644
+Sri Lanka,1983,131865
+Sri Lanka,1984,114597
+Sri Lanka,1985,125000
+Sri Lanka,1986,113005
+Sri Lanka,1987,116624
+Sri Lanka,1988,120690
+Sri Lanka,1989,119116
+Sri Lanka,1990,110520
+Sri Lanka,1991,104522
+Sri Lanka,1992,110108
+Sri Lanka,1993,112006
+Sri Lanka,1994,110104
+Sri Lanka,1995,109931
+Sri Lanka,1996,127136
+Sri Lanka,1997,102773
+Sri Lanka,1998,111254
+Sri Lanka,1999,125207
+Sri Lanka,2000,132921
+Sri Lanka,2001,135718
+Sri Lanka,2002,134206
+Sri Lanka,2003,113708
+Sri Lanka,2004,148033
+Sri Lanka,2005,141622
+Sri Lanka,2006,148094
+Sri Lanka,2007,145197
+Sri Lanka,2008,145282
+Sri Lanka,2009,149034
+Sri Lanka,2010,135234
+Sri Lanka,2011,132500
+Sri Lanka,2012,155269
+Sri Lanka,2013,153210
+Sri Lanka,2014,153536
+Sri Lanka,2015,158257
+Sri Lanka,2016,158009
+Sri Lanka,2017,164591
+Sri Lanka,2018,171815
+Sri Lanka,2019,187123
+Sri Lanka,2020,182578
+Sri Lanka,2021,164188
+Tajikistan,1992,128769
+Tajikistan,1993,120492
+Tajikistan,1994,111667
+Tajikistan,1995,279000
+Tajikistan,1996,107700
+Tajikistan,1997,100289
+Tajikistan,1998,104926
+Tajikistan,1999,117128
+Tajikistan,2000,119046
+Tajikistan,2001,132600
+Tajikistan,2002,158022
+Tajikistan,2003,182134
+Tajikistan,2004,183006
+Tajikistan,2005,196227
+Tajikistan,2006,198508
+Tajikistan,2007,218368
+Tajikistan,2008,237053
+Tajikistan,2009,231535
+Tajikistan,2010,239308
+Tajikistan,2011,235049
+Tajikistan,2012,237444
+Tajikistan,2013,251396
+Tajikistan,2014,240199
+Tajikistan,2015,223070
+Tajikistan,2016,216013
+Tajikistan,2017,192759
+Tajikistan,2018,194318
+Tajikistan,2019,192809
+Tajikistan,2020,184306
+Tajikistan,2021,155048
+Turkmenistan,1992,116667
+Turkmenistan,1993,80000
+Turkmenistan,1994,23077
+Turkmenistan,1995,52500
+Turkmenistan,1996,83874
+Turkmenistan,1997,107134
+Turkmenistan,1998,128665
+Turkmenistan,1999,148145
+Turkmenistan,2000,176163
+Turkmenistan,2001,183518
+Turkmenistan,2002,219335
+Turkmenistan,2003,220846
+Turkmenistan,2004,222124
+Turkmenistan,2005,219851
+Turkmenistan,2006,213906
+Turkmenistan,2007,222523
+Turkmenistan,2008,187656
+Turkmenistan,2009,177482
+Turkmenistan,2010,172138
+Turkmenistan,2011,166556
+Turkmenistan,2012,173594
+Turkmenistan,2013,194670
+Turkmenistan,2014,211019
+Turkmenistan,2015,185526
+Turkmenistan,2016,189780
+Turkmenistan,2017,178296
+Turkmenistan,2018,167980
+Turkmenistan,2019,153549
+Turkmenistan,2020,148826
+Turkmenistan,2021,144127
+Uzbekistan,1992,85115
+Uzbekistan,1993,106157
+Uzbekistan,1994,107000
+Uzbekistan,1995,95839
+Uzbekistan,1996,115937
+Uzbekistan,1997,120122
+Uzbekistan,1998,126399
+Uzbekistan,1999,135629
+Uzbekistan,2000,140057
+Uzbekistan,2001,146535
+Uzbekistan,2002,158937
+Uzbekistan,2003,169593
+Uzbekistan,2004,171793
+Uzbekistan,2005,185541
+Uzbekistan,2006,194141
+Uzbekistan,2007,213831
+Uzbekistan,2008,233506
+Uzbekistan,2009,243710
+Uzbekistan,2010,239717
+Uzbekistan,2011,253071
+Uzbekistan,2012,270329
+Uzbekistan,2013,287407
+Uzbekistan,2014,305405
+Uzbekistan,2015,334605
+Uzbekistan,2016,329901
+Uzbekistan,2017,357016
+Uzbekistan,2018,336862
+Uzbekistan,2019,346394
+Uzbekistan,2020,339498
+Uzbekistan,2021,334692
