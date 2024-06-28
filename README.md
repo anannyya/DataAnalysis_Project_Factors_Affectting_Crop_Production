@@ -1,7 +1,12 @@
 # 🌾 Crop Yield Prediction for Central and Southern Asia 🌾
 
+![UN Zero Hunger Logo](https://www.un.org/sites/un2.un.org/files/sdg_2_zero_hunger.png)
+
+### *Contributing to the UN's Zero Hunger Goal* 🌍
+
 ![FAO Logo](https://www.fao.org/fileadmin/templates/family-farming-decade/images/fao-logo-en.png)
 ![World Bank Logo](https://upload.wikimedia.org/wikipedia/commons/0/04/World_Bank_logo.svg)
+
 
 ## Project Overview 📊
 
@@ -77,5 +82,3 @@ Trained and validated multiple regression models to predict crop yields:
 
 This project aligns with the UN's Zero Hunger goal by providing actionable insights to improve food security in Central and Southern Asia. The combination of economic and environmental data offers a comprehensive understanding of the factors affecting crop yields.
 
-
-![UN Zero Hunger Logo](https://www.un.org/sites/un2.un.org/files/sdg_2_zero_hunger.png)
