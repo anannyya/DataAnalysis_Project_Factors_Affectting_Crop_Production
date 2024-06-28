@@ -63,13 +63,9 @@ The project successfully identified key factors influencing crop yields and deve
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/crop-yield-prediction.git
+    [git clone https://github.com/anannyya/FAO-Crop-Yield-Prediction.git
     ```
-2. Navigate to the project directory:
-    ```bash
-    cd crop-yield-prediction
-    ```
-3. Run the R script for analysis:
+2. Run the R script for analysis:
     ```bash
     Rscript Crop_production.R
     ```
@@ -78,13 +74,5 @@ The project successfully identified key factors influencing crop yields and deve
 
 This project aligns with the UN's Zero Hunger goal by providing actionable insights to improve food security in Central and Southern Asia. The combination of economic and environmental data offers a comprehensive understanding of the factors affecting crop yields.
 
-## Contact
-
-For any queries, please contact:
-- **Ananya Upadhyay**: ananya.upadhyay@example.com
-
----
 
 ![UN Zero Hunger Logo](https://www.un.org/sites/un2.un.org/files/sdg_2_zero_hunger.png)
-
-*This project is part of my MS in Data Analytics and Science at [Your University].*
