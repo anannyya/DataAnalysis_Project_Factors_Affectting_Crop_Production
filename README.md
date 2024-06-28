@@ -1,13 +1,13 @@
-# Crop Yield Prediction for Central and Southern Asia
+# 🌾 Crop Yield Prediction for Central and Southern Asia 🌾
 
-![FAO Logo](https://www.fao.org/img/fao_logo_en.png)
-![World Bank Logo](https://www.worldbank.org/content/dam/photos/780x439/2020/sep/worldbank-logo.jpg)
+![FAO Logo](https://www.fao.org/fileadmin/templates/family-farming-decade/images/fao-logo-en.png)
+![World Bank Logo](https://upload.wikimedia.org/wikipedia/commons/0/04/World_Bank_logo.svg)
 
-## Project Overview
+## Project Overview 📊
 
 This project focuses on understanding and predicting crop yields for wheat, rice, and potatoes in Central and Southern Asia. The analysis leverages economic data from the World Bank and environmental data from the Climate Change Knowledge Portal to provide insights and models that can help improve food security in the region.
 
-## Data Collection and Preprocessing
+## Data Collection and Preprocessing 📂
 
 ### Collected Data
 
@@ -18,13 +18,13 @@ This project focuses on understanding and predicting crop yields for wheat, rice
 
 The data spans from 1960 to 2021 and covers 12 countries: India, Pakistan, Sri Lanka, Maldives, Bangladesh, Tajikistan, Turkmenistan, Uzbekistan, Kyrgyz Republic, Kazakhstan, and Nepal.
 
-### Data Preprocessing
+### Data Preprocessing 🛠️
 
 1. **Missing Value Treatment**: Removed attributes with more than 30% missing values.
 2. **Interpolation**: Used to estimate missing values for economic factors and crop yields.
 3. **Outlier Removal**: Applied the IQR method to eliminate outliers.
 
-## Project Structure
+## Project Structure 🗂️
 
 - **Collected Data**: Contains raw data files.
 - **Pre-processed Data**: Includes cleaned and interpolated CSV files.
@@ -32,17 +32,17 @@ The data spans from 1960 to 2021 and covers 12 countries: India, Pakistan, Sri L
 - **Poster.pdf**: Project poster summarizing the key findings.
 - **Visualization**: Folder containing all the charts and visualizations.
 
-## Analysis and Modeling
+## Analysis and Modeling 🧪
 
-### Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA) 🔍
 
 Performed EDA to understand the relationships and distributions of the variables. Key steps included visualizing trends, identifying outliers, and calculating correlations.
 
-### Feature Engineering
+### Feature Engineering 🧩
 
 Created new features and selected the most significant ones using statistical tests and domain knowledge.
 
-### Modeling
+### Modeling 📈
 
 Trained and validated multiple regression models to predict crop yields:
 
@@ -51,15 +51,18 @@ Trained and validated multiple regression models to predict crop yields:
 3. **Random Forest**
 4. **Polynomial Regression**
 
-### Model Performance
+### Model Performance 🌟
 
 - **Random Forest** was found to be the most accurate model with high predictive performance across all crops.
 
-## Results and Insights
+## Results and Insights 💡
 
-The project successfully identified key factors influencing crop yields and developed robust models for yield prediction. This can aid policymakers in resource allocation and help farmers optimize their practices.
+- **Economic Factors**: GDP per capita and agricultural investments showed strong correlations with crop yields.
+- **Environmental Factors**: Precipitation and temperature significantly impacted yield variations.
+- **Model Accuracy**: The Random Forest model outperformed other models, achieving high accuracy in predicting yields for wheat, rice, and potatoes.
+- **Policy Recommendations**: The findings suggest that improving economic conditions and managing environmental factors can significantly enhance crop production.
 
-## How to Use
+## How to Use 🚀
 
 1. Clone the repository:
     ```bash
